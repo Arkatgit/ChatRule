@@ -53,6 +53,7 @@ python kg_completion.py --dataset yago -p FinalRules/yago
 ## Results
 <img src="resources/kgc.png" width = "800" />
 <img src="resources/statistics.png" width = "500" />
+<img src="resources/quality.png" width = "500" />
 
 
 ## Bibinfo

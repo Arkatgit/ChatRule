@@ -55,7 +55,7 @@ if __name__== '__main__':
     parser.add_argument("--anchor", type=int, default=5, help="anchor facts for each relation")
     parser.add_argument("--output_path", type=str, default="sampled_path", help="output path")
     parser.add_argument("--sparsity", type=float, default=1, help="dataset sampling sparsity")
-    parser.add_argument("--cores", type=int, default=5, help="dataset sampling sparsity")
+    parser.add_argument("--cores", type=int, default=5, help="dataset sampling sparsity value")
     args = parser.parse_args()
 
     main(args)

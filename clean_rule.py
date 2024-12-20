@@ -130,7 +130,7 @@ def clean_rules(summarized_file_path, all_rels):
                     best_match = get_close_matches(predicate, all_rels, n=1)
                     if not best_match:
                         correctyfied = False
-                        print(f"Cannot correctify this rule, body: {predicate} not in relaiton: ", rule)
+                        print(f"Cannot correctify this rule, body: {predicate} not in the relaiton: ", rule)
                         break
                     predicate = best_match[0].strip()
                 # Make sure the rule is in the chain-like format

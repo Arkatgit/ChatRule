@@ -1,13 +1,13 @@
 # ChatRule
 
-Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning with **1 dollar**.
+Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning at low cost.
 
-Official Implementation of "[ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning](https://arxiv.org/abs/2309.01538)".
+This is a reproduction of "[ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning](https://arxiv.org/abs/2309.01538)".
 
 <img src="resources/chatrule.png" width = "800" />
 
 
-Logical rules are essential for uncovering the logical connections between relations, which could improve reasoning performance and provide interpretable results on knowledge graphs (KGs). In this paper, we propose a novel framework, ChatRule, unleashing the power of large language models (LLMs) for mining logical rules over knowledge graphs at a low cost. The final rules can be used to conduct reasoning over KGs without additional model training.
+Logical rules are essential for uncovering the logical connections between relations, which could improve reasoning performance and provide interpretable results on knowledge graphs (KGs). This is a reproduction of the ChatRule, a novel framework unleashing the power of large language models (LLMs) for mining logical rules over knowledge graphs at a low cost. The final rules can be used to conduct reasoning over KGs without additional model training.
 
 ## Requirements
 ```

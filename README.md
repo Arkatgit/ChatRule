@@ -7,7 +7,7 @@ Official Implementation of "[ChatRule: Mining Logical Rules with Large Language 
 <img src="resources/chatrule.png" width = "800" />
 
 
-Logical rules are essential for uncovering the logical connections between relations, which could improve reasoning performance and provide interpretable results on knowledge graphs (KGs). In this paper, we propose a novel framework, ChatRule, unleashing the power of large language models (LLMs) for mining logical rules over knowledge graphs with less than **1 dollar**. The final rules can be used to conduct reasoning over KGs without additional model training.
+Logical rules are essential for uncovering the logical connections between relations, which could improve reasoning performance and provide interpretable results on knowledge graphs (KGs). In this paper, we propose a novel framework, ChatRule, unleashing the power of large language models (LLMs) for mining logical rules over knowledge graphs at a low cost. The final rules can be used to conduct reasoning over KGs without additional model training.
 
 ## Requirements
 ```
